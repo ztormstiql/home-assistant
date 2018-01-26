@@ -1,6 +1,6 @@
 Home Assistant configuration and documentation
 
-- Running Hassio on a Raspberry Pi
+- Running Hass.io on a Raspberry Pi
 
 - Z-wave devices:
   - Aeotec USB-stick
@@ -10,3 +10,10 @@ Home Assistant configuration and documentation
   - Hank scene controller
 
 - Smart meter USB/P1-cable
+
+- Used Hass.io addons:
+  - Duck DNS
+  - Node-RED
+  - InfluxDb
+  - Grafiana Multiarch
+
